@@ -10,7 +10,7 @@ namespace LanguageFeatures.Controllers
     {
         public string Index()
         {
-            return "Navigate to a URL to show an example";
+            return "Navigate to a URL to show an example Test 2";
         }
     }
 }
